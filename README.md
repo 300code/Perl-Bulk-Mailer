@@ -30,6 +30,10 @@ Example usages:
 
     $ ./bmail.pl -t
 
+ ## Cooperation
+
+Thanks for Mido Hamed to modify and fix the issue for sending bulk without limit per resources also can either directly edit the file bmail.pl, and modify the contents in the user configuration section or use command line options to specify the details about Data File and Message Template File.
+
 ## Licence
 
 This application is distributed under Apache License v2:
